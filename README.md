@@ -11,3 +11,4 @@ a. Worker Processes (`worker_processes`)
 
 ![image](https://github.com/user-attachments/assets/71a22708-e849-4fad-84d5-c398222d7ce7)
 
+This will automatically set the number of worker processes to match the number of CPU cores (auto-detect).
